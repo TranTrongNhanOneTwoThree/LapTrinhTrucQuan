@@ -1,0 +1,21 @@
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\DeThuNhat\bin\Debug\DeThuNhat.exe.config
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\DeThuNhat\bin\Debug\DeThuNhat.exe
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\DeThuNhat\bin\Debug\DeThuNhat.pdb
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\DeThuNhat\obj\Debug\DeThuNhat.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\DeThuNhat\obj\Debug\DeThuNhat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\DeThuNhat\obj\Debug\DeThuNhat.Form1.resources
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\DeThuNhat\obj\Debug\DeThuNhat.Properties.Resources.resources
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\DeThuNhat\obj\Debug\DeThuNhat.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\DeThuNhat\obj\Debug\DeThuNhat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\DeThuNhat\obj\Debug\DeThuNhat.exe
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\DeThuNhat\obj\Debug\DeThuNhat.pdb
+C:\Users\trant\Downloads\DeThuNhat\DeThuNhat\bin\Debug\DeThuNhat.exe.config
+C:\Users\trant\Downloads\DeThuNhat\DeThuNhat\bin\Debug\DeThuNhat.exe
+C:\Users\trant\Downloads\DeThuNhat\DeThuNhat\bin\Debug\DeThuNhat.pdb
+C:\Users\trant\Downloads\DeThuNhat\DeThuNhat\obj\Debug\DeThuNhat.csprojAssemblyReference.cache
+C:\Users\trant\Downloads\DeThuNhat\DeThuNhat\obj\Debug\DeThuNhat.Form1.resources
+C:\Users\trant\Downloads\DeThuNhat\DeThuNhat\obj\Debug\DeThuNhat.Properties.Resources.resources
+C:\Users\trant\Downloads\DeThuNhat\DeThuNhat\obj\Debug\DeThuNhat.csproj.GenerateResource.cache
+C:\Users\trant\Downloads\DeThuNhat\DeThuNhat\obj\Debug\DeThuNhat.csproj.CoreCompileInputs.cache
+C:\Users\trant\Downloads\DeThuNhat\DeThuNhat\obj\Debug\DeThuNhat.exe
+C:\Users\trant\Downloads\DeThuNhat\DeThuNhat\obj\Debug\DeThuNhat.pdb

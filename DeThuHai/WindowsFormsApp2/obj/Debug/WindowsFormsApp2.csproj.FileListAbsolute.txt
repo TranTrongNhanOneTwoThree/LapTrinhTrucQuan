@@ -1,0 +1,32 @@
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Admin\Documents\My VS 2022\DeThuNhat\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Admin\Documents\My VS 2022\DeThuHai\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Admin\Documents\My VS 2022\DeThuHai\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Admin\Documents\My VS 2022\DeThuHai\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Admin\Documents\My VS 2022\DeThuHai\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\My VS 2022\DeThuHai\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\My VS 2022\DeThuHai\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Admin\Documents\My VS 2022\DeThuHai\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Admin\Documents\My VS 2022\DeThuHai\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\My VS 2022\DeThuHai\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\My VS 2022\DeThuHai\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Admin\Documents\My VS 2022\DeThuHai\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\trant\Downloads\DeThuHai\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\trant\Downloads\DeThuHai\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\trant\Downloads\DeThuHai\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\trant\Downloads\DeThuHai\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\trant\Downloads\DeThuHai\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\trant\Downloads\DeThuHai\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\trant\Downloads\DeThuHai\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\trant\Downloads\DeThuHai\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\trant\Downloads\DeThuHai\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\trant\Downloads\DeThuHai\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
